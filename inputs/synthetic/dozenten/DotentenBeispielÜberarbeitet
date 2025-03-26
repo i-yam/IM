@@ -1,0 +1,26 @@
+{
+  "hochschule": "Technische Hochschule Würzburg-Schweinfurt",
+  "standort": "Würzburg",
+  "dozenten": [
+    {
+      "DozentenID": "001",
+      "fachbereich": "Instandhaltung",
+      "kurse": ["Business Software", "Logistik"],
+      "Zeitfenster": [
+        {
+          "dauer_datum": "12.00-13.00/Montag"
+        }
+      ]
+    },
+    {
+      "DozentenID": "002",
+      "fachbereich": "Datenbanken",
+      "kurse": ["Datenbanken", "Business Technologies"],
+      "Zeitfenster": [
+        {
+          "dauer_datum": "12.45-14.30/Mittwoch"
+        }
+      ]
+    }
+  ]
+}
