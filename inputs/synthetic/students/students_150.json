@@ -1,0 +1,1817 @@
+{
+  "students": [
+    {
+      "matrikelnummer": "100050",
+      "name": "Schmidt",
+      "vorname": "Tim",
+      "studiengang": "IS",
+      "zuschreibende_klausuren": [
+        "Netzwerke",
+        "Mathematik",
+        "Webentwicklung",
+        "BWL",
+        "IT-Sicherheit",
+        "Programmierung",
+        "Datenbanken"
+      ]
+    },
+    {
+      "matrikelnummer": "100051",
+      "name": "Schmidt",
+      "vorname": "Lukas",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "Mathematik",
+        "IT-Sicherheit",
+        "Programmierung",
+        "Netzwerke",
+        "Datenbanken"
+      ]
+    },
+    {
+      "matrikelnummer": "100052",
+      "name": "Hoffmann",
+      "vorname": "Laura",
+      "studiengang": "Inf",
+      "zuschreibende_klausuren": [
+        "Programmierung",
+        "Mathematik"
+      ]
+    },
+    {
+      "matrikelnummer": "100053",
+      "name": "Bauer",
+      "vorname": "Tim",
+      "studiengang": "IS",
+      "zuschreibende_klausuren": [
+        "IT-Sicherheit",
+        "Datenbanken"
+      ]
+    },
+    {
+      "matrikelnummer": "100054",
+      "name": "Meyer",
+      "vorname": "Sophia",
+      "studiengang": "EC",
+      "zuschreibende_klausuren": [
+        "IT-Sicherheit",
+        "Mathematik",
+        "Programmierung"
+      ]
+    },
+    {
+      "matrikelnummer": "100055",
+      "name": "Fischer",
+      "vorname": "Jonas",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "Programmierung",
+        "Datenbanken",
+        "IT-Sicherheit",
+        "Mathematik",
+        "Netzwerke",
+        "BWL"
+      ]
+    },
+    {
+      "matrikelnummer": "100056",
+      "name": "König",
+      "vorname": "Lukas",
+      "studiengang": "EC",
+      "zuschreibende_klausuren": [
+        "BWL",
+        "Programmierung",
+        "Mathematik"
+      ]
+    },
+    {
+      "matrikelnummer": "100057",
+      "name": "Koch",
+      "vorname": "Lukas",
+      "studiengang": "Inf",
+      "zuschreibende_klausuren": [
+        "BWL",
+        "Datenbanken",
+        "Webentwicklung"
+      ]
+    },
+    {
+      "matrikelnummer": "100058",
+      "name": "Fischer",
+      "vorname": "Lena",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "Mathematik",
+        "Netzwerke",
+        "Programmierung"
+      ]
+    },
+    {
+      "matrikelnummer": "100059",
+      "name": "Bauer",
+      "vorname": "Anna",
+      "studiengang": "IS",
+      "zuschreibende_klausuren": [
+        "Programmierung",
+        "Mathematik"
+      ]
+    },
+    {
+      "matrikelnummer": "100060",
+      "name": "Schmidt",
+      "vorname": "Lena",
+      "studiengang": "DG",
+      "zuschreibende_klausuren": [
+        "Webentwicklung",
+        "IT-Sicherheit",
+        "Netzwerke",
+        "Programmierung",
+        "BWL",
+        "Mathematik"
+      ]
+    },
+    {
+      "matrikelnummer": "100061",
+      "name": "Meyer",
+      "vorname": "Laura",
+      "studiengang": "Inf",
+      "zuschreibende_klausuren": [
+        "BWL",
+        "Programmierung",
+        "Webentwicklung",
+        "Mathematik",
+        "Datenbanken",
+        "Netzwerke"
+      ]
+    },
+    {
+      "matrikelnummer": "100062",
+      "name": "Wagner",
+      "vorname": "Mia",
+      "studiengang": "DG",
+      "zuschreibende_klausuren": [
+        "Netzwerke",
+        "IT-Sicherheit",
+        "Programmierung",
+        "Webentwicklung",
+        "Mathematik",
+        "BWL"
+      ]
+    },
+    {
+      "matrikelnummer": "100063",
+      "name": "Meyer",
+      "vorname": "Jonas",
+      "studiengang": "IS",
+      "zuschreibende_klausuren": [
+        "Netzwerke",
+        "BWL",
+        "Datenbanken"
+      ]
+    },
+    {
+      "matrikelnummer": "100064",
+      "name": "Schmidt",
+      "vorname": "Laura",
+      "studiengang": "DG",
+      "zuschreibende_klausuren": [
+        "IT-Sicherheit",
+        "Netzwerke",
+        "Mathematik"
+      ]
+    },
+    {
+      "matrikelnummer": "100065",
+      "name": "Weber",
+      "vorname": "Max",
+      "studiengang": "DG",
+      "zuschreibende_klausuren": [
+        "IT-Sicherheit",
+        "Netzwerke"
+      ]
+    },
+    {
+      "matrikelnummer": "100066",
+      "name": "König",
+      "vorname": "Anna",
+      "studiengang": "EC",
+      "zuschreibende_klausuren": [
+        "Netzwerke",
+        "Webentwicklung",
+        "Mathematik",
+        "Datenbanken",
+        "IT-Sicherheit",
+        "BWL",
+        "Programmierung"
+      ]
+    },
+    {
+      "matrikelnummer": "100067",
+      "name": "Hoffmann",
+      "vorname": "Sophia",
+      "studiengang": "DG",
+      "zuschreibende_klausuren": [
+        "IT-Sicherheit",
+        "Netzwerke",
+        "Webentwicklung",
+        "BWL",
+        "Mathematik",
+        "Datenbanken"
+      ]
+    },
+    {
+      "matrikelnummer": "100068",
+      "name": "Fischer",
+      "vorname": "Max",
+      "studiengang": "Inf",
+      "zuschreibende_klausuren": [
+        "Webentwicklung",
+        "BWL",
+        "Netzwerke"
+      ]
+    },
+    {
+      "matrikelnummer": "100069",
+      "name": "Koch",
+      "vorname": "Lena",
+      "studiengang": "DG",
+      "zuschreibende_klausuren": [
+        "Datenbanken"
+      ]
+    },
+    {
+      "matrikelnummer": "100070",
+      "name": "Schulz",
+      "vorname": "Felix",
+      "studiengang": "Inf",
+      "zuschreibende_klausuren": [
+        "Programmierung",
+        "Webentwicklung",
+        "IT-Sicherheit",
+        "Mathematik",
+        "Netzwerke",
+        "BWL",
+        "Datenbanken"
+      ]
+    },
+    {
+      "matrikelnummer": "100071",
+      "name": "Koch",
+      "vorname": "Felix",
+      "studiengang": "EC",
+      "zuschreibende_klausuren": [
+        "Programmierung"
+      ]
+    },
+    {
+      "matrikelnummer": "100072",
+      "name": "Meyer",
+      "vorname": "Max",
+      "studiengang": "IS",
+      "zuschreibende_klausuren": [
+        "Netzwerke",
+        "Datenbanken"
+      ]
+    },
+    {
+      "matrikelnummer": "100073",
+      "name": "Hoffmann",
+      "vorname": "Laura",
+      "studiengang": "Inf",
+      "zuschreibende_klausuren": [
+        "IT-Sicherheit",
+        "Mathematik",
+        "Datenbanken",
+        "Programmierung",
+        "Netzwerke",
+        "BWL"
+      ]
+    },
+    {
+      "matrikelnummer": "100074",
+      "name": "Fischer",
+      "vorname": "Lena",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "IT-Sicherheit",
+        "Datenbanken",
+        "BWL"
+      ]
+    },
+    {
+      "matrikelnummer": "100075",
+      "name": "Hoffmann",
+      "vorname": "Sophia",
+      "studiengang": "EC",
+      "zuschreibende_klausuren": [
+        "IT-Sicherheit",
+        "Netzwerke",
+        "BWL"
+      ]
+    },
+    {
+      "matrikelnummer": "100076",
+      "name": "Schmidt",
+      "vorname": "Tim",
+      "studiengang": "Inf",
+      "zuschreibende_klausuren": [
+        "Netzwerke"
+      ]
+    },
+    {
+      "matrikelnummer": "100077",
+      "name": "Bauer",
+      "vorname": "Lena",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "Webentwicklung",
+        "Mathematik",
+        "BWL",
+        "Netzwerke",
+        "Programmierung"
+      ]
+    },
+    {
+      "matrikelnummer": "100078",
+      "name": "König",
+      "vorname": "Jonas",
+      "studiengang": "IS",
+      "zuschreibende_klausuren": [
+        "BWL",
+        "Webentwicklung",
+        "Mathematik",
+        "Netzwerke",
+        "Programmierung",
+        "Datenbanken"
+      ]
+    },
+    {
+      "matrikelnummer": "100079",
+      "name": "Fischer",
+      "vorname": "Anna",
+      "studiengang": "EC",
+      "zuschreibende_klausuren": [
+        "Netzwerke"
+      ]
+    },
+    {
+      "matrikelnummer": "100080",
+      "name": "König",
+      "vorname": "Mia",
+      "studiengang": "IS",
+      "zuschreibende_klausuren": [
+        "Webentwicklung"
+      ]
+    },
+    {
+      "matrikelnummer": "100081",
+      "name": "Schmidt",
+      "vorname": "Sophia",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "Datenbanken",
+        "IT-Sicherheit",
+        "BWL",
+        "Programmierung"
+      ]
+    },
+    {
+      "matrikelnummer": "100082",
+      "name": "Meyer",
+      "vorname": "Jonas",
+      "studiengang": "EC",
+      "zuschreibende_klausuren": [
+        "Netzwerke",
+        "Programmierung"
+      ]
+    },
+    {
+      "matrikelnummer": "100083",
+      "name": "Wagner",
+      "vorname": "Felix",
+      "studiengang": "EC",
+      "zuschreibende_klausuren": [
+        "IT-Sicherheit",
+        "Mathematik",
+        "BWL",
+        "Netzwerke",
+        "Datenbanken",
+        "Webentwicklung"
+      ]
+    },
+    {
+      "matrikelnummer": "100084",
+      "name": "Schulz",
+      "vorname": "Anna",
+      "studiengang": "Inf",
+      "zuschreibende_klausuren": [
+        "Netzwerke",
+        "Datenbanken",
+        "BWL",
+        "IT-Sicherheit",
+        "Programmierung",
+        "Mathematik"
+      ]
+    },
+    {
+      "matrikelnummer": "100085",
+      "name": "Meyer",
+      "vorname": "Laura",
+      "studiengang": "IS",
+      "zuschreibende_klausuren": [
+        "Mathematik",
+        "IT-Sicherheit"
+      ]
+    },
+    {
+      "matrikelnummer": "100086",
+      "name": "Fischer",
+      "vorname": "Lena",
+      "studiengang": "DG",
+      "zuschreibende_klausuren": [
+        "IT-Sicherheit"
+      ]
+    },
+    {
+      "matrikelnummer": "100087",
+      "name": "Wagner",
+      "vorname": "Laura",
+      "studiengang": "IS",
+      "zuschreibende_klausuren": [
+        "Webentwicklung",
+        "Mathematik"
+      ]
+    },
+    {
+      "matrikelnummer": "100088",
+      "name": "Wagner",
+      "vorname": "Jonas",
+      "studiengang": "DG",
+      "zuschreibende_klausuren": [
+        "Datenbanken"
+      ]
+    },
+    {
+      "matrikelnummer": "100089",
+      "name": "Bauer",
+      "vorname": "Mia",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "Netzwerke",
+        "BWL",
+        "Datenbanken",
+        "Programmierung",
+        "Webentwicklung",
+        "Mathematik"
+      ]
+    },
+    {
+      "matrikelnummer": "100090",
+      "name": "Koch",
+      "vorname": "Felix",
+      "studiengang": "IS",
+      "zuschreibende_klausuren": [
+        "Netzwerke"
+      ]
+    },
+    {
+      "matrikelnummer": "100091",
+      "name": "Weber",
+      "vorname": "Jonas",
+      "studiengang": "IS",
+      "zuschreibende_klausuren": [
+        "Datenbanken",
+        "Mathematik",
+        "Netzwerke",
+        "Webentwicklung",
+        "Programmierung",
+        "BWL",
+        "IT-Sicherheit"
+      ]
+    },
+    {
+      "matrikelnummer": "100092",
+      "name": "König",
+      "vorname": "Lukas",
+      "studiengang": "DG",
+      "zuschreibende_klausuren": [
+        "Programmierung",
+        "Mathematik",
+        "Netzwerke",
+        "Webentwicklung",
+        "BWL"
+      ]
+    },
+    {
+      "matrikelnummer": "100093",
+      "name": "Wagner",
+      "vorname": "Jonas",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "BWL",
+        "Netzwerke"
+      ]
+    },
+    {
+      "matrikelnummer": "100094",
+      "name": "Fischer",
+      "vorname": "Lena",
+      "studiengang": "IS",
+      "zuschreibende_klausuren": [
+        "BWL",
+        "Datenbanken",
+        "Mathematik",
+        "Webentwicklung",
+        "Programmierung",
+        "IT-Sicherheit",
+        "Netzwerke"
+      ]
+    },
+    {
+      "matrikelnummer": "100095",
+      "name": "König",
+      "vorname": "Felix",
+      "studiengang": "EC",
+      "zuschreibende_klausuren": [
+        "Netzwerke",
+        "Webentwicklung"
+      ]
+    },
+    {
+      "matrikelnummer": "100096",
+      "name": "Schmidt",
+      "vorname": "Anna",
+      "studiengang": "Inf",
+      "zuschreibende_klausuren": [
+        "BWL",
+        "Netzwerke",
+        "Datenbanken",
+        "Webentwicklung",
+        "IT-Sicherheit"
+      ]
+    },
+    {
+      "matrikelnummer": "100097",
+      "name": "König",
+      "vorname": "Lena",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "IT-Sicherheit",
+        "Netzwerke",
+        "BWL",
+        "Programmierung",
+        "Mathematik"
+      ]
+    },
+    {
+      "matrikelnummer": "100098",
+      "name": "Hoffmann",
+      "vorname": "Tim",
+      "studiengang": "Inf",
+      "zuschreibende_klausuren": [
+        "Mathematik",
+        "Netzwerke",
+        "IT-Sicherheit",
+        "Datenbanken",
+        "Webentwicklung"
+      ]
+    },
+    {
+      "matrikelnummer": "100099",
+      "name": "König",
+      "vorname": "Sophia",
+      "studiengang": "EC",
+      "zuschreibende_klausuren": [
+        "BWL",
+        "Mathematik",
+        "Programmierung",
+        "Webentwicklung"
+      ]
+    },
+    {
+      "matrikelnummer": "100100",
+      "name": "Hoffmann",
+      "vorname": "Anna",
+      "studiengang": "EC",
+      "zuschreibende_klausuren": [
+        "Mathematik",
+        "IT-Sicherheit",
+        "Programmierung",
+        "Datenbanken",
+        "Webentwicklung",
+        "Netzwerke",
+        "BWL"
+      ]
+    },
+    {
+      "matrikelnummer": "100101",
+      "name": "Hoffmann",
+      "vorname": "Sophia",
+      "studiengang": "IS",
+      "zuschreibende_klausuren": [
+        "IT-Sicherheit"
+      ]
+    },
+    {
+      "matrikelnummer": "100102",
+      "name": "Meyer",
+      "vorname": "Anna",
+      "studiengang": "Inf",
+      "zuschreibende_klausuren": [
+        "IT-Sicherheit",
+        "Webentwicklung",
+        "Mathematik",
+        "Netzwerke",
+        "Datenbanken"
+      ]
+    },
+    {
+      "matrikelnummer": "100103",
+      "name": "Hoffmann",
+      "vorname": "Lukas",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "IT-Sicherheit",
+        "Netzwerke",
+        "Programmierung",
+        "Mathematik",
+        "Webentwicklung"
+      ]
+    },
+    {
+      "matrikelnummer": "100104",
+      "name": "Schulz",
+      "vorname": "Sophia",
+      "studiengang": "DG",
+      "zuschreibende_klausuren": [
+        "Webentwicklung",
+        "Mathematik",
+        "Programmierung",
+        "BWL",
+        "IT-Sicherheit"
+      ]
+    },
+    {
+      "matrikelnummer": "100105",
+      "name": "König",
+      "vorname": "Lena",
+      "studiengang": "Inf",
+      "zuschreibende_klausuren": [
+        "IT-Sicherheit",
+        "Netzwerke",
+        "Programmierung",
+        "Datenbanken",
+        "BWL",
+        "Webentwicklung"
+      ]
+    },
+    {
+      "matrikelnummer": "100106",
+      "name": "Hoffmann",
+      "vorname": "Lena",
+      "studiengang": "DG",
+      "zuschreibende_klausuren": [
+        "BWL",
+        "Mathematik",
+        "Datenbanken",
+        "Webentwicklung",
+        "Netzwerke",
+        "IT-Sicherheit"
+      ]
+    },
+    {
+      "matrikelnummer": "100107",
+      "name": "Meyer",
+      "vorname": "Jonas",
+      "studiengang": "EC",
+      "zuschreibende_klausuren": [
+        "Webentwicklung",
+        "BWL",
+        "Programmierung",
+        "Mathematik"
+      ]
+    },
+    {
+      "matrikelnummer": "100108",
+      "name": "Fischer",
+      "vorname": "Tim",
+      "studiengang": "DG",
+      "zuschreibende_klausuren": [
+        "BWL",
+        "Datenbanken"
+      ]
+    },
+    {
+      "matrikelnummer": "100109",
+      "name": "Hoffmann",
+      "vorname": "Tim",
+      "studiengang": "DG",
+      "zuschreibende_klausuren": [
+        "IT-Sicherheit",
+        "Netzwerke",
+        "BWL"
+      ]
+    },
+    {
+      "matrikelnummer": "100110",
+      "name": "Bauer",
+      "vorname": "Jonas",
+      "studiengang": "EC",
+      "zuschreibende_klausuren": [
+        "Webentwicklung",
+        "Datenbanken",
+        "BWL",
+        "Programmierung",
+        "Netzwerke",
+        "Mathematik",
+        "IT-Sicherheit"
+      ]
+    },
+    {
+      "matrikelnummer": "100111",
+      "name": "Schmidt",
+      "vorname": "Anna",
+      "studiengang": "EC",
+      "zuschreibende_klausuren": [
+        "Netzwerke",
+        "Mathematik",
+        "Datenbanken",
+        "Programmierung",
+        "BWL",
+        "Webentwicklung",
+        "IT-Sicherheit"
+      ]
+    },
+    {
+      "matrikelnummer": "100112",
+      "name": "Meyer",
+      "vorname": "Felix",
+      "studiengang": "DG",
+      "zuschreibende_klausuren": [
+        "IT-Sicherheit",
+        "Webentwicklung",
+        "Mathematik",
+        "BWL"
+      ]
+    },
+    {
+      "matrikelnummer": "100113",
+      "name": "Schmidt",
+      "vorname": "Lukas",
+      "studiengang": "EC",
+      "zuschreibende_klausuren": [
+        "IT-Sicherheit",
+        "Mathematik",
+        "BWL",
+        "Programmierung",
+        "Datenbanken"
+      ]
+    },
+    {
+      "matrikelnummer": "100114",
+      "name": "Weber",
+      "vorname": "Mia",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "Webentwicklung",
+        "BWL",
+        "Netzwerke",
+        "Datenbanken",
+        "Programmierung",
+        "Mathematik"
+      ]
+    },
+    {
+      "matrikelnummer": "100115",
+      "name": "Schmidt",
+      "vorname": "Lena",
+      "studiengang": "Inf",
+      "zuschreibende_klausuren": [
+        "Programmierung",
+        "BWL",
+        "Mathematik",
+        "Netzwerke",
+        "IT-Sicherheit"
+      ]
+    },
+    {
+      "matrikelnummer": "100116",
+      "name": "Meyer",
+      "vorname": "Mia",
+      "studiengang": "Inf",
+      "zuschreibende_klausuren": [
+        "Datenbanken"
+      ]
+    },
+    {
+      "matrikelnummer": "100117",
+      "name": "König",
+      "vorname": "Felix",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "BWL",
+        "Netzwerke",
+        "Programmierung",
+        "Datenbanken",
+        "Webentwicklung",
+        "IT-Sicherheit",
+        "Mathematik"
+      ]
+    },
+    {
+      "matrikelnummer": "100118",
+      "name": "Koch",
+      "vorname": "Jonas",
+      "studiengang": "IS",
+      "zuschreibende_klausuren": [
+        "Webentwicklung",
+        "Netzwerke",
+        "Datenbanken",
+        "IT-Sicherheit",
+        "Mathematik"
+      ]
+    },
+    {
+      "matrikelnummer": "100119",
+      "name": "Weber",
+      "vorname": "Lena",
+      "studiengang": "Inf",
+      "zuschreibende_klausuren": [
+        "BWL",
+        "Webentwicklung",
+        "IT-Sicherheit"
+      ]
+    },
+    {
+      "matrikelnummer": "100120",
+      "name": "Wagner",
+      "vorname": "Sophia",
+      "studiengang": "EC",
+      "zuschreibende_klausuren": [
+        "Mathematik",
+        "BWL",
+        "Datenbanken"
+      ]
+    },
+    {
+      "matrikelnummer": "100121",
+      "name": "Schulz",
+      "vorname": "Tim",
+      "studiengang": "Inf",
+      "zuschreibende_klausuren": [
+        "Mathematik",
+        "Netzwerke",
+        "BWL",
+        "Webentwicklung",
+        "Programmierung",
+        "IT-Sicherheit",
+        "Datenbanken"
+      ]
+    },
+    {
+      "matrikelnummer": "100122",
+      "name": "Wagner",
+      "vorname": "Sophia",
+      "studiengang": "Inf",
+      "zuschreibende_klausuren": [
+        "Datenbanken",
+        "Netzwerke"
+      ]
+    },
+    {
+      "matrikelnummer": "100123",
+      "name": "Meyer",
+      "vorname": "Anna",
+      "studiengang": "EC",
+      "zuschreibende_klausuren": [
+        "Webentwicklung",
+        "Programmierung",
+        "BWL",
+        "IT-Sicherheit",
+        "Datenbanken",
+        "Netzwerke",
+        "Mathematik"
+      ]
+    },
+    {
+      "matrikelnummer": "100124",
+      "name": "Meyer",
+      "vorname": "Mia",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "IT-Sicherheit",
+        "Mathematik",
+        "BWL",
+        "Programmierung"
+      ]
+    },
+    {
+      "matrikelnummer": "100125",
+      "name": "Schmidt",
+      "vorname": "Laura",
+      "studiengang": "EC",
+      "zuschreibende_klausuren": [
+        "Netzwerke",
+        "IT-Sicherheit",
+        "Mathematik",
+        "Webentwicklung",
+        "BWL",
+        "Datenbanken"
+      ]
+    },
+    {
+      "matrikelnummer": "100126",
+      "name": "Fischer",
+      "vorname": "Tim",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "Mathematik",
+        "BWL",
+        "Netzwerke",
+        "Programmierung",
+        "IT-Sicherheit",
+        "Webentwicklung"
+      ]
+    },
+    {
+      "matrikelnummer": "100127",
+      "name": "Wagner",
+      "vorname": "Max",
+      "studiengang": "IS",
+      "zuschreibende_klausuren": [
+        "IT-Sicherheit",
+        "BWL",
+        "Programmierung",
+        "Webentwicklung"
+      ]
+    },
+    {
+      "matrikelnummer": "100128",
+      "name": "Schmidt",
+      "vorname": "Jonas",
+      "studiengang": "IS",
+      "zuschreibende_klausuren": [
+        "Datenbanken",
+        "BWL",
+        "Programmierung",
+        "Netzwerke"
+      ]
+    },
+    {
+      "matrikelnummer": "100129",
+      "name": "König",
+      "vorname": "Mia",
+      "studiengang": "EC",
+      "zuschreibende_klausuren": [
+        "Programmierung",
+        "Netzwerke",
+        "Datenbanken",
+        "Mathematik",
+        "BWL"
+      ]
+    },
+    {
+      "matrikelnummer": "100130",
+      "name": "Wagner",
+      "vorname": "Lena",
+      "studiengang": "IS",
+      "zuschreibende_klausuren": [
+        "Netzwerke",
+        "Mathematik",
+        "Programmierung",
+        "BWL"
+      ]
+    },
+    {
+      "matrikelnummer": "100131",
+      "name": "Koch",
+      "vorname": "Mia",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "Webentwicklung"
+      ]
+    },
+    {
+      "matrikelnummer": "100132",
+      "name": "Bauer",
+      "vorname": "Sophia",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "Webentwicklung",
+        "Datenbanken"
+      ]
+    },
+    {
+      "matrikelnummer": "100133",
+      "name": "Koch",
+      "vorname": "Max",
+      "studiengang": "EC",
+      "zuschreibende_klausuren": [
+        "BWL",
+        "Mathematik",
+        "Netzwerke"
+      ]
+    },
+    {
+      "matrikelnummer": "100134",
+      "name": "Weber",
+      "vorname": "Laura",
+      "studiengang": "EC",
+      "zuschreibende_klausuren": [
+        "Mathematik",
+        "Netzwerke",
+        "BWL",
+        "Programmierung",
+        "Webentwicklung",
+        "Datenbanken",
+        "IT-Sicherheit"
+      ]
+    },
+    {
+      "matrikelnummer": "100135",
+      "name": "Fischer",
+      "vorname": "Lena",
+      "studiengang": "EC",
+      "zuschreibende_klausuren": [
+        "Netzwerke",
+        "Programmierung"
+      ]
+    },
+    {
+      "matrikelnummer": "100136",
+      "name": "Schulz",
+      "vorname": "Sophia",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "Webentwicklung",
+        "Mathematik",
+        "Programmierung",
+        "Netzwerke"
+      ]
+    },
+    {
+      "matrikelnummer": "100137",
+      "name": "Schulz",
+      "vorname": "Sophia",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "Datenbanken",
+        "Mathematik",
+        "Netzwerke"
+      ]
+    },
+    {
+      "matrikelnummer": "100138",
+      "name": "Wagner",
+      "vorname": "Lena",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "Webentwicklung",
+        "Programmierung",
+        "Datenbanken",
+        "Mathematik"
+      ]
+    },
+    {
+      "matrikelnummer": "100139",
+      "name": "König",
+      "vorname": "Sophia",
+      "studiengang": "Inf",
+      "zuschreibende_klausuren": [
+        "Mathematik",
+        "BWL",
+        "IT-Sicherheit",
+        "Programmierung",
+        "Datenbanken",
+        "Netzwerke"
+      ]
+    },
+    {
+      "matrikelnummer": "100140",
+      "name": "Schmidt",
+      "vorname": "Lukas",
+      "studiengang": "IS",
+      "zuschreibende_klausuren": [
+        "IT-Sicherheit"
+      ]
+    },
+    {
+      "matrikelnummer": "100141",
+      "name": "Bauer",
+      "vorname": "Lena",
+      "studiengang": "DG",
+      "zuschreibende_klausuren": [
+        "IT-Sicherheit"
+      ]
+    },
+    {
+      "matrikelnummer": "100142",
+      "name": "Hoffmann",
+      "vorname": "Sophia",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "BWL",
+        "IT-Sicherheit",
+        "Mathematik",
+        "Netzwerke",
+        "Datenbanken",
+        "Webentwicklung",
+        "Programmierung"
+      ]
+    },
+    {
+      "matrikelnummer": "100143",
+      "name": "Hoffmann",
+      "vorname": "Anna",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "IT-Sicherheit",
+        "Mathematik",
+        "Webentwicklung",
+        "Programmierung",
+        "Datenbanken",
+        "Netzwerke",
+        "BWL"
+      ]
+    },
+    {
+      "matrikelnummer": "100144",
+      "name": "Koch",
+      "vorname": "Mia",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "BWL",
+        "Mathematik",
+        "IT-Sicherheit",
+        "Programmierung"
+      ]
+    },
+    {
+      "matrikelnummer": "100145",
+      "name": "Weber",
+      "vorname": "Lena",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "Datenbanken",
+        "Mathematik",
+        "IT-Sicherheit",
+        "Programmierung",
+        "Netzwerke"
+      ]
+    },
+    {
+      "matrikelnummer": "100146",
+      "name": "Hoffmann",
+      "vorname": "Lena",
+      "studiengang": "EC",
+      "zuschreibende_klausuren": [
+        "Netzwerke",
+        "Webentwicklung",
+        "IT-Sicherheit",
+        "Datenbanken",
+        "Mathematik",
+        "Programmierung",
+        "BWL"
+      ]
+    },
+    {
+      "matrikelnummer": "100147",
+      "name": "Meyer",
+      "vorname": "Lena",
+      "studiengang": "IS",
+      "zuschreibende_klausuren": [
+        "Datenbanken",
+        "Netzwerke",
+        "Webentwicklung",
+        "BWL",
+        "IT-Sicherheit",
+        "Programmierung",
+        "Mathematik"
+      ]
+    },
+    {
+      "matrikelnummer": "100148",
+      "name": "Fischer",
+      "vorname": "Tim",
+      "studiengang": "Inf",
+      "zuschreibende_klausuren": [
+        "Webentwicklung",
+        "Mathematik",
+        "Netzwerke",
+        "Datenbanken"
+      ]
+    },
+    {
+      "matrikelnummer": "100149",
+      "name": "Fischer",
+      "vorname": "Felix",
+      "studiengang": "Inf",
+      "zuschreibende_klausuren": [
+        "Programmierung",
+        "Webentwicklung",
+        "BWL",
+        "IT-Sicherheit",
+        "Datenbanken",
+        "Netzwerke",
+        "Mathematik"
+      ]
+    },
+    {
+      "matrikelnummer": "100150",
+      "name": "Schmidt",
+      "vorname": "Jonas",
+      "studiengang": "IS",
+      "zuschreibende_klausuren": [
+        "BWL",
+        "Netzwerke"
+      ]
+    },
+    {
+      "matrikelnummer": "100151",
+      "name": "Schulz",
+      "vorname": "Max",
+      "studiengang": "EC",
+      "zuschreibende_klausuren": [
+        "Webentwicklung",
+        "BWL",
+        "IT-Sicherheit"
+      ]
+    },
+    {
+      "matrikelnummer": "100152",
+      "name": "Meyer",
+      "vorname": "Felix",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "Netzwerke",
+        "BWL",
+        "Datenbanken",
+        "Mathematik",
+        "Programmierung",
+        "IT-Sicherheit"
+      ]
+    },
+    {
+      "matrikelnummer": "100153",
+      "name": "Wagner",
+      "vorname": "Jonas",
+      "studiengang": "DG",
+      "zuschreibende_klausuren": [
+        "Netzwerke"
+      ]
+    },
+    {
+      "matrikelnummer": "100154",
+      "name": "Meyer",
+      "vorname": "Lukas",
+      "studiengang": "DG",
+      "zuschreibende_klausuren": [
+        "Mathematik",
+        "Programmierung",
+        "IT-Sicherheit",
+        "Datenbanken",
+        "Netzwerke"
+      ]
+    },
+    {
+      "matrikelnummer": "100155",
+      "name": "Wagner",
+      "vorname": "Max",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "Mathematik",
+        "Programmierung",
+        "Datenbanken",
+        "Webentwicklung",
+        "IT-Sicherheit",
+        "BWL"
+      ]
+    },
+    {
+      "matrikelnummer": "100156",
+      "name": "Koch",
+      "vorname": "Sophia",
+      "studiengang": "EC",
+      "zuschreibende_klausuren": [
+        "BWL",
+        "Mathematik",
+        "Webentwicklung",
+        "Netzwerke",
+        "Programmierung",
+        "Datenbanken",
+        "IT-Sicherheit"
+      ]
+    },
+    {
+      "matrikelnummer": "100157",
+      "name": "Wagner",
+      "vorname": "Jonas",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "IT-Sicherheit",
+        "Datenbanken"
+      ]
+    },
+    {
+      "matrikelnummer": "100158",
+      "name": "Wagner",
+      "vorname": "Lena",
+      "studiengang": "Inf",
+      "zuschreibende_klausuren": [
+        "Netzwerke",
+        "Mathematik",
+        "Programmierung"
+      ]
+    },
+    {
+      "matrikelnummer": "100159",
+      "name": "Schulz",
+      "vorname": "Sophia",
+      "studiengang": "DG",
+      "zuschreibende_klausuren": [
+        "Webentwicklung",
+        "Netzwerke"
+      ]
+    },
+    {
+      "matrikelnummer": "100160",
+      "name": "Koch",
+      "vorname": "Max",
+      "studiengang": "IS",
+      "zuschreibende_klausuren": [
+        "Datenbanken",
+        "Netzwerke",
+        "BWL"
+      ]
+    },
+    {
+      "matrikelnummer": "100161",
+      "name": "König",
+      "vorname": "Felix",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "BWL",
+        "Mathematik",
+        "Datenbanken",
+        "IT-Sicherheit",
+        "Netzwerke"
+      ]
+    },
+    {
+      "matrikelnummer": "100162",
+      "name": "Schulz",
+      "vorname": "Laura",
+      "studiengang": "Inf",
+      "zuschreibende_klausuren": [
+        "IT-Sicherheit",
+        "Webentwicklung",
+        "Netzwerke",
+        "Mathematik",
+        "Programmierung",
+        "BWL",
+        "Datenbanken"
+      ]
+    },
+    {
+      "matrikelnummer": "100163",
+      "name": "Weber",
+      "vorname": "Lena",
+      "studiengang": "EC",
+      "zuschreibende_klausuren": [
+        "IT-Sicherheit",
+        "Webentwicklung"
+      ]
+    },
+    {
+      "matrikelnummer": "100164",
+      "name": "Weber",
+      "vorname": "Sophia",
+      "studiengang": "Inf",
+      "zuschreibende_klausuren": [
+        "Datenbanken",
+        "Netzwerke",
+        "Mathematik",
+        "Programmierung",
+        "BWL",
+        "IT-Sicherheit"
+      ]
+    },
+    {
+      "matrikelnummer": "100165",
+      "name": "Fischer",
+      "vorname": "Mia",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "BWL",
+        "Netzwerke",
+        "Programmierung",
+        "Webentwicklung",
+        "IT-Sicherheit",
+        "Datenbanken"
+      ]
+    },
+    {
+      "matrikelnummer": "100166",
+      "name": "Hoffmann",
+      "vorname": "Lukas",
+      "studiengang": "DG",
+      "zuschreibende_klausuren": [
+        "IT-Sicherheit",
+        "BWL",
+        "Programmierung",
+        "Mathematik",
+        "Datenbanken"
+      ]
+    },
+    {
+      "matrikelnummer": "100167",
+      "name": "Bauer",
+      "vorname": "Lukas",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "Datenbanken",
+        "Webentwicklung"
+      ]
+    },
+    {
+      "matrikelnummer": "100168",
+      "name": "Bauer",
+      "vorname": "Anna",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "Netzwerke",
+        "Datenbanken",
+        "Programmierung",
+        "Webentwicklung",
+        "Mathematik",
+        "BWL"
+      ]
+    },
+    {
+      "matrikelnummer": "100169",
+      "name": "Meyer",
+      "vorname": "Lena",
+      "studiengang": "IS",
+      "zuschreibende_klausuren": [
+        "Webentwicklung",
+        "Datenbanken",
+        "Programmierung",
+        "BWL",
+        "IT-Sicherheit"
+      ]
+    },
+    {
+      "matrikelnummer": "100170",
+      "name": "Bauer",
+      "vorname": "Lena",
+      "studiengang": "Inf",
+      "zuschreibende_klausuren": [
+        "Programmierung",
+        "IT-Sicherheit",
+        "Netzwerke"
+      ]
+    },
+    {
+      "matrikelnummer": "100171",
+      "name": "Schulz",
+      "vorname": "Lena",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "Mathematik",
+        "Netzwerke",
+        "Webentwicklung",
+        "BWL"
+      ]
+    },
+    {
+      "matrikelnummer": "100172",
+      "name": "Schmidt",
+      "vorname": "Jonas",
+      "studiengang": "EC",
+      "zuschreibende_klausuren": [
+        "BWL",
+        "Netzwerke",
+        "Mathematik"
+      ]
+    },
+    {
+      "matrikelnummer": "100173",
+      "name": "Bauer",
+      "vorname": "Lena",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "Netzwerke",
+        "Programmierung",
+        "Datenbanken",
+        "BWL",
+        "Mathematik",
+        "IT-Sicherheit"
+      ]
+    },
+    {
+      "matrikelnummer": "100174",
+      "name": "Schmidt",
+      "vorname": "Lena",
+      "studiengang": "IS",
+      "zuschreibende_klausuren": [
+        "Datenbanken"
+      ]
+    },
+    {
+      "matrikelnummer": "100175",
+      "name": "König",
+      "vorname": "Lukas",
+      "studiengang": "EC",
+      "zuschreibende_klausuren": [
+        "Mathematik",
+        "Datenbanken",
+        "Programmierung",
+        "BWL",
+        "IT-Sicherheit",
+        "Netzwerke"
+      ]
+    },
+    {
+      "matrikelnummer": "100176",
+      "name": "Weber",
+      "vorname": "Max",
+      "studiengang": "IS",
+      "zuschreibende_klausuren": [
+        "Netzwerke",
+        "BWL",
+        "Mathematik"
+      ]
+    },
+    {
+      "matrikelnummer": "100177",
+      "name": "Weber",
+      "vorname": "Tim",
+      "studiengang": "DG",
+      "zuschreibende_klausuren": [
+        "Mathematik"
+      ]
+    },
+    {
+      "matrikelnummer": "100178",
+      "name": "Meyer",
+      "vorname": "Lukas",
+      "studiengang": "EC",
+      "zuschreibende_klausuren": [
+        "IT-Sicherheit",
+        "Programmierung",
+        "Netzwerke",
+        "Webentwicklung"
+      ]
+    },
+    {
+      "matrikelnummer": "100179",
+      "name": "Wagner",
+      "vorname": "Mia",
+      "studiengang": "IS",
+      "zuschreibende_klausuren": [
+        "Programmierung",
+        "Netzwerke",
+        "IT-Sicherheit",
+        "Webentwicklung"
+      ]
+    },
+    {
+      "matrikelnummer": "100180",
+      "name": "Schulz",
+      "vorname": "Mia",
+      "studiengang": "Inf",
+      "zuschreibende_klausuren": [
+        "Webentwicklung",
+        "Netzwerke",
+        "IT-Sicherheit",
+        "Mathematik",
+        "Datenbanken",
+        "Programmierung"
+      ]
+    },
+    {
+      "matrikelnummer": "100181",
+      "name": "Meyer",
+      "vorname": "Felix",
+      "studiengang": "DG",
+      "zuschreibende_klausuren": [
+        "IT-Sicherheit",
+        "Netzwerke",
+        "Webentwicklung",
+        "Mathematik",
+        "BWL",
+        "Datenbanken"
+      ]
+    },
+    {
+      "matrikelnummer": "100182",
+      "name": "König",
+      "vorname": "Tim",
+      "studiengang": "EC",
+      "zuschreibende_klausuren": [
+        "BWL",
+        "Programmierung"
+      ]
+    },
+    {
+      "matrikelnummer": "100183",
+      "name": "Schmidt",
+      "vorname": "Mia",
+      "studiengang": "IS",
+      "zuschreibende_klausuren": [
+        "Programmierung",
+        "Netzwerke",
+        "Datenbanken"
+      ]
+    },
+    {
+      "matrikelnummer": "100184",
+      "name": "Schmidt",
+      "vorname": "Lena",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "Datenbanken"
+      ]
+    },
+    {
+      "matrikelnummer": "100185",
+      "name": "Koch",
+      "vorname": "Mia",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "Webentwicklung",
+        "Netzwerke"
+      ]
+    },
+    {
+      "matrikelnummer": "100186",
+      "name": "Bauer",
+      "vorname": "Felix",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "Programmierung",
+        "Webentwicklung",
+        "Datenbanken"
+      ]
+    },
+    {
+      "matrikelnummer": "100187",
+      "name": "Bauer",
+      "vorname": "Laura",
+      "studiengang": "Inf",
+      "zuschreibende_klausuren": [
+        "Netzwerke",
+        "IT-Sicherheit",
+        "Programmierung",
+        "BWL"
+      ]
+    },
+    {
+      "matrikelnummer": "100188",
+      "name": "Bauer",
+      "vorname": "Lena",
+      "studiengang": "EC",
+      "zuschreibende_klausuren": [
+        "Datenbanken"
+      ]
+    },
+    {
+      "matrikelnummer": "100189",
+      "name": "König",
+      "vorname": "Max",
+      "studiengang": "IS",
+      "zuschreibende_klausuren": [
+        "Datenbanken",
+        "IT-Sicherheit",
+        "BWL",
+        "Mathematik"
+      ]
+    },
+    {
+      "matrikelnummer": "100190",
+      "name": "Bauer",
+      "vorname": "Tim",
+      "studiengang": "DG",
+      "zuschreibende_klausuren": [
+        "Netzwerke",
+        "BWL",
+        "Mathematik",
+        "IT-Sicherheit",
+        "Datenbanken"
+      ]
+    },
+    {
+      "matrikelnummer": "100191",
+      "name": "Schulz",
+      "vorname": "Felix",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "Webentwicklung",
+        "Programmierung",
+        "Datenbanken"
+      ]
+    },
+    {
+      "matrikelnummer": "100192",
+      "name": "Weber",
+      "vorname": "Anna",
+      "studiengang": "WINF",
+      "zuschreibende_klausuren": [
+        "Mathematik",
+        "BWL",
+        "Programmierung",
+        "Datenbanken",
+        "Netzwerke",
+        "Webentwicklung",
+        "IT-Sicherheit"
+      ]
+    },
+    {
+      "matrikelnummer": "100193",
+      "name": "Fischer",
+      "vorname": "Tim",
+      "studiengang": "Inf",
+      "zuschreibende_klausuren": [
+        "Netzwerke",
+        "Mathematik",
+        "Datenbanken",
+        "BWL"
+      ]
+    },
+    {
+      "matrikelnummer": "100194",
+      "name": "Wagner",
+      "vorname": "Lukas",
+      "studiengang": "IS",
+      "zuschreibende_klausuren": [
+        "Programmierung"
+      ]
+    },
+    {
+      "matrikelnummer": "100195",
+      "name": "Weber",
+      "vorname": "Anna",
+      "studiengang": "EC",
+      "zuschreibende_klausuren": [
+        "Netzwerke",
+        "IT-Sicherheit",
+        "BWL",
+        "Mathematik",
+        "Webentwicklung"
+      ]
+    },
+    {
+      "matrikelnummer": "100196",
+      "name": "Wagner",
+      "vorname": "Tim",
+      "studiengang": "DG",
+      "zuschreibende_klausuren": [
+        "Mathematik",
+        "Datenbanken",
+        "Netzwerke",
+        "Webentwicklung",
+        "BWL",
+        "IT-Sicherheit",
+        "Programmierung"
+      ]
+    },
+    {
+      "matrikelnummer": "100197",
+      "name": "Hoffmann",
+      "vorname": "Anna",
+      "studiengang": "IS",
+      "zuschreibende_klausuren": [
+        "BWL",
+        "Webentwicklung",
+        "Netzwerke",
+        "Datenbanken",
+        "Programmierung"
+      ]
+    },
+    {
+      "matrikelnummer": "100198",
+      "name": "Schulz",
+      "vorname": "Anna",
+      "studiengang": "EC",
+      "zuschreibende_klausuren": [
+        "Netzwerke",
+        "Mathematik",
+        "BWL"
+      ]
+    },
+    {
+      "matrikelnummer": "100199",
+      "name": "Schmidt",
+      "vorname": "Laura",
+      "studiengang": "EC",
+      "zuschreibende_klausuren": [
+        "BWL",
+        "Programmierung",
+        "Netzwerke",
+        "IT-Sicherheit",
+        "Mathematik",
+        "Webentwicklung"
+      ]
+    }
+  ]
+}
