@@ -1,2 +1,3 @@
-# IM
-Innovations Management Course
+# Innovation Management
+
+Innovations Management Course Repo
