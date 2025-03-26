@@ -1,0 +1,974 @@
+[
+    {
+        "course": "Workbench",
+        "course_id": "5003028",
+        "examiner_1": "4",
+        "examiner_2": "Development",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine Espensch.\nRott Braun Advanced Database Techniques 5003180 BIN FWPM, BWI FWPM 6 25.01.2025 12"
+    },
+    {
+        "course": "zum \nDeinzer Seuß Algorithmen und Datenstrukturen I",
+        "course_id": "5100020",
+        "examiner_1": "eigenes",
+        "examiner_2": "Notebook",
+        "type": "VMs",
+        "duration": "Deinzer Seuß Algorithmen und Datenstrukturen I 5100020 BIN",
+        "allowed_materials": "(alte SPO) X 7 27.01.2025 08"
+    },
+    {
+        "course": "Fertig\nFertig Biedermann Algorithmen und Datenstrukturen II",
+        "course_id": "5101110",
+        "examiner_1": "keine",
+        "examiner_2": "Deinzer",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine\nSchaidt\nnein / ein beidseitig \nhandbeschriebenes und nicht \nkopiertes DIN-A4 Blatt, das zur \nKeller Wübker Analysis 5100360 BIN2 X 38 10.02.2025 10"
+    },
+    {
+        "course": "Taschenrechner\nSchleif Gregorova Angewandte Numerik",
+        "course_id": "5100430",
+        "examiner_1": "nicht",
+        "examiner_2": "programmierbarer",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ open book Schleif\nYamshchikov Schleif Artificial Intelligence and Machine Learning 5171020 MAI SS X 2 31.01.2025 11"
+    },
+    {
+        "course": "Fichtel\nArtificial Neural Networks and Cognitive \nGregorova Väth",
+        "course_id": "5171030",
+        "examiner_1": "keine",
+        "examiner_2": "Münch",
+        "type": "Portfolio",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung ohne\nModels\nLehrmann\nBalzer Lehrmann Ausgewählte Kapitel der Embedded Systems 5071038 MAI FWPM, MDB FWPM siehe sep. Zeitplan 10 06.02.2025 09"
+    },
+    {
+        "course": "Carmo\nBEC FWPM",
+        "course_id": "5111160",
+        "examiner_1": "keine",
+        "examiner_2": "do",
+        "type": "Portfolio",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung ohne\n6810140\nnein / Handwritten and printed\nnotes, text books and a non-\nprogrammable calculator\nMay contain multiple \nStorath Fabeck Bayesian Statistics and Learning 5171518 MAI FWPM X 1 29.01.2025 11"
+    },
+    {
+        "course": "Betriebssysteme",
+        "course_id": "5102200",
+        "examiner_1": "Fertig",
+        "examiner_2": "Braun",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ Wörterbuch Fertig\nIT-gest.\nenthalten\nBIN FWPM, BWI FWPM, \nFertig Schütz Blockchain und Smart Contracts 5003188 24 25.01.2025 12"
+    },
+    {
+        "course": "Business Software",
+        "course_id": "5002130",
+        "examiner_1": "Liebstückel",
+        "examiner_2": "Hennermann",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung Liebstückel\nIT-gest.\nAngabe des \nLiebstückel Hennermann Business Systeme und Prozesse 5081020 MDB WS Präsentationstermins"
+    },
+    {
+        "course": "kann Multiple \nSaueressig Schleif Business Technologies",
+        "course_id": "5001820",
+        "examiner_1": "Zeitplan",
+        "examiner_2": "Prüfung",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine Saueressig\nenthalten\nRempel Völkl-Wolf CANVA - Einfach.Gut.Gestalten 5003829 BWI FWPM, BEC FWPM 20 25.01.2025 12"
+    },
+    {
+        "course": "Gerhards Schleif Cloud Native",
+        "course_id": "5171512",
+        "examiner_1": "keine",
+        "examiner_2": "ohne",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine Schleif\nBIN FWPM, BWI FWPM, \nReining Schillinger Cloud Native Enterprise Java  5003804 10 10.02.2025 13"
+    },
+    {
+        "course": "BEC FWPM\nChizhov Yamshchikov Competitive Programming",
+        "course_id": "5171521",
+        "examiner_1": "keine",
+        "examiner_2": "Reining",
+        "type": "Portfolio",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung ohne\nYamshchikov Meißner Computational Creativity 5171522 MAI FWPM 4 31.01.2025 11"
+    },
+    {
+        "course": "Prüfung kann Multiple \nAubele\nAubele Schütz Content Engineering",
+        "course_id": "6102110",
+        "examiner_1": "keine",
+        "examiner_2": "Yamshchikov",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine\nSchütz\nenthalten\nWH"
+    },
+    {
+        "course": "Schleif\nSchleif Rott Datenmanagement und Data Science",
+        "course_id": "5101730",
+        "examiner_1": "additional",
+        "examiner_2": "personal",
+        "type": "Choice",
+        "duration": "Fragen  notes Roeder",
+        "allowed_materials": "enthalten\nSchweppen- soP Ref."
+    },
+    {
+        "course": "Rempel Rogge-Pott Digitale Zeichensysteme",
+        "course_id": "6100400",
+        "examiner_1": "keine",
+        "examiner_2": "ohne",
+        "type": "Portfolio",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung ohne\nOermann Müller, N. Einführung in das Recht 6910110 BDGD2 X 4 25.01.2025 12"
+    },
+    {
+        "course": "die Sozioinformatik",
+        "course_id": "6910040",
+        "examiner_1": "Einführung",
+        "examiner_2": "in",
+        "type": "Portfolio",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung ohne\nOrientierungs-prüfung\nEinführung in Web-Technologien mit Web-\nSchillinger Zilker 6100710 BEC2 X 2 25.01.2025 12"
+    },
+    {
+        "course": "E-Commerce",
+        "course_id": "6100820",
+        "examiner_1": "English",
+        "examiner_2": "for",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine FANG\nenthalten\n5000910 Prüfung kann Multiple \nKreiner-\nWassermann English for IT 5100920 BWI2, BDGD2, BIN (alte SPO) X Choice Fragen  30 27.01.2025 11"
+    },
+    {
+        "course": "Wegener",
+        "course_id": "6910120",
+        "examiner_1": "keine",
+        "examiner_2": "FANG",
+        "type": "Portfolio",
+        "duration": "nein",
+        "allowed_materials": "/ keine ohne\nOermann\nOermann Müßig, M. Ethical Leadership 5081030 MDB WS siehe sep. Zeitplan 26 04.02.2025 11"
+    },
+    {
+        "course": "Regulation of AI",
+        "course_id": "5171519",
+        "examiner_1": "Ethics",
+        "examiner_2": "and",
+        "type": "Portfolio",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung ohne\nFichtel"
+    },
+    {
+        "course": "Ethics",
+        "course_id": "6810180",
+        "examiner_1": "Compliance",
+        "examiner_2": "and",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ Gesetzestexte\nChoice Fragen  Weber\nenthalten\nEvaExam-Prüfung \nGovernance, Risk, Compliance and Ethics  BIN FWPM, BWI FWPM,  Prüfung kann Multiple  Oermann\nWeber Oermann 5003827 5 04.02.2025 08"
+    },
+    {
+        "course": "Wedlich Rott Grundlagen der Betriebswirtschaftslehre",
+        "course_id": "5100620",
+        "examiner_1": "nicht",
+        "examiner_2": "programmierbarer",
+        "type": "min",
+        "duration": "Wedlich",
+        "allowed_materials": "evtl. IT-gestützt Taschenrechner\nenthalten\nGrundlagen- u.  Biedermann\nBiedermann Weber Grundlagen der Informationssicherheit 6810050 BISD1 57 07.02.2025 08"
+    },
+    {
+        "course": "Keller Wübker Grundlagen der Kryptographie",
+        "course_id": "6810100",
+        "examiner_1": "prüfung",
+        "examiner_2": "Ziegler",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine FANG\nBalzer\nGrundlagen- u.  H.1.1 -  nein / nicht programmierbarer  Zilker\nBalzer Zilker Grundlagen der Technischen Informatik 5100720 BIN1 120 10.02.2025 13"
+    },
+    {
+        "course": "Meißner Grundlagen der Theoretischen Informatik",
+        "course_id": "5101010",
+        "examiner_1": "26",
+        "examiner_2": "Deinzer",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine Deinzer\nTessitore\nGrundlagen- u.  H.1.1 - \nTessitore Huffstadt Grundlagen der Wirtschaftsinformatik 5000430 BWI1 106 12.02.2025 08"
+    },
+    {
+        "course": "Hennermann Grundlagen der Wirtschaftswissenschaften",
+        "course_id": "6100600",
+        "examiner_1": "Riegler",
+        "examiner_2": "Wedlich",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ Taschenrechner\nPrüfung kann Multiple  H.1.7 evtl. IT-gestützt Schaidt\n6910050\nChoice Fragen  Wörtmann\nenthalten Ziegler\nPrüfung kann Multiple \nBraun\nChoice Fragen \nH.1.1 -  Lode\n5000440 enthalten schriftl. Prüf., \nBraun John Grundlagen Informatik BWI1, BDGD1 149 03.02.2025 08"
+    },
+    {
+        "course": "Informatik und E-Commerce",
+        "course_id": "6100510",
+        "examiner_1": "Braun",
+        "examiner_2": "Grundlagen",
+        "type": "min",
+        "duration": "Braun",
+        "allowed_materials": "I.2.18 evtl. IT-gestützt Informatik)\nChoice Fragen  Rust\nenthalten\nRichter Aubele Grundlagen Konsumpsychologie 5003831 BEC FWPM 14 28.01.2025 13"
+    },
+    {
+        "course": "Intelligenz",
+        "course_id": "6910130",
+        "examiner_1": "Grundlagen",
+        "examiner_2": "Künstlicher",
+        "type": "Sl",
+        "duration": "nein",
+        "allowed_materials": "/ keine ohne\nschriftl. Prüf.  IT-\nBraun Heinzl Grundlagen verteilter Systeme 5101320 BIN (alte SPO) X 11 05.02.2025 16"
+    },
+    {
+        "course": "gestützt\nWeber\nWeber Rott Informations- und Technologiemanagement",
+        "course_id": "5003220",
+        "examiner_1": "keine",
+        "examiner_2": "Braun",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine\nRott\nH.1.1 -  Unz\nUnz Müller, N. Informationspsychologie 6910030 BDGD1 51 12.02.2025 11"
+    },
+    {
+        "course": "Weber Fertig ISM-Standards and Processes",
+        "course_id": "6810120",
+        "examiner_1": "5101910",
+        "examiner_2": "enthalten",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine Weber\nBIN FWPM, BWI FWPM, \nWeber Fertig ISM-Standards and Processes (FWPM) 5003820 X 1 12.02.2025 16"
+    },
+    {
+        "course": "BEC FWPM\nSaueressig\nSaueressig Wedlich IT-Organisation und IT-Controlling",
+        "course_id": "5001900",
+        "examiner_1": "keine",
+        "examiner_2": "Weber",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ Taschenrechner\nZiegler\nPrüfung kann Multiple \n5003230 Choice Fragen  Heß\n5103220 enthalten H.1.1 -  schriftl. Prüf.,  Lode\nHeß Wedlich IT-Projektmanagement BIN4, BWI3, BEC4, BISD3 (X) 124 06.02.2025 08"
+    },
+    {
+        "course": "ohne\nLehrmann Seuß Learning of Structured Data",
+        "course_id": "5171100",
+        "examiner_1": "keine",
+        "examiner_2": "Beschränkung",
+        "type": "Portfolio",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung ohne\nnein / eigene handschriftliche \nH.1.1 -  Mitschrift, Kalender, nicht  Liebstückel\nLiebstückel Wedlich Logistik 5001710 BWI3   84 01.02.2025 10"
+    },
+    {
+        "course": "Marketing und Vertrieb",
+        "course_id": "5002030",
+        "examiner_1": "Wedlich",
+        "examiner_2": "Hennermann",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine Wedlich\nEvaexam Online Bitte  evtl. IT-gestützt\neigenen Rechner \nmitbringen\nnein / Handwritten and printed \nnotes, text books and a non-\nprogrammable calculator \nMay contain multiple \nStorath Diethelm Mathematical Foundations of AI 5172010 MAI SS X 16 29.01.2025 11"
+    },
+    {
+        "course": "Stilgenbauer Wübker Mathematik",
+        "course_id": "6910020",
+        "examiner_1": "das",
+        "examiner_2": "zur",
+        "type": "Kontrolle",
+        "duration": "eingesammelt",
+        "allowed_materials": "wird,  FANG\nenthalten nicht programmierbarer \nTaschenrechner gemäß \nAushang im E-Learning-Kurs\nnein / ein beidseitig \nhandbeschriebenes und nicht \nPrüfung kann Multiple  H.1.1,  kopiertes DIN-A4 Blatt, das zur \n5000340\nStilgenbauer Wübker Mathematik I BWI1, BEC1 Choice Fragen  148 27.01.2025 08"
+    },
+    {
+        "course": "Veranstaltung \nPolcar Völkl-Wolf",
+        "course_id": "5003815",
+        "examiner_1": "die",
+        "examiner_2": "in",
+        "type": "Entertainment",
+        "duration": "bekannt gegeben wird",
+        "allowed_materials": "6102700\nHuffstadt John Mobile Systeme und Anwendungen BEC3, BISD3 89 25.01.2025 12"
+    },
+    {
+        "course": "Digitalisierung",
+        "course_id": "5081090",
+        "examiner_1": "Nachhaltigkeit",
+        "examiner_2": "und",
+        "type": "Sl",
+        "duration": "nein",
+        "allowed_materials": "/ keine ohne\nGrundlagen- u. \n6102310 Orientierungs-prüfung Aubele\nAubele Schütz Oberflächengestaltung und Usability BEC1, BDGD3 75 25.01.2025 11"
+    },
+    {
+        "course": "Biedermann Weber Penetration Testing",
+        "course_id": "6810110",
+        "examiner_1": "3",
+        "examiner_2": "Ströbel",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine Biedermann\nJohn Braun Professional Skills 5111180 BIN3 62 25.01.2025 12"
+    },
+    {
+        "course": "Zilker Programmieren",
+        "course_id": "6910070",
+        "examiner_1": "siehe",
+        "examiner_2": "Heinzl",
+        "type": "Wörterbuch",
+        "duration": "5100130",
+        "allowed_materials": "I.3.20\nZilker\nGrundlagen- u.  Lode\n5100130  Orientierungs-prüfung H.1.1 -  Müller P.\nja (50"
+    },
+    {
+        "course": "Programmieren I",
+        "course_id": "5000130",
+        "examiner_1": "Heinzl",
+        "examiner_2": "Zilker",
+        "type": "Wörterbuch",
+        "duration": "6810020 Choice Fragen",
+        "allowed_materials": "I.3.20 Schaidt\nenthalten Ströbel\nZiegler\nZilker\n5100220\nH.1.1 -  ja (50"
+    },
+    {
+        "course": "Zilker Programmieren II",
+        "course_id": "5000220",
+        "examiner_1": "Lode",
+        "examiner_2": "Heinzl",
+        "type": "H.1.3",
+        "duration": "Wörterbuch Müller",
+        "allowed_materials": "P.\n6810080\nZiegler\nsoP prakt. Sl,  Braun\nBraun Zilker Programmierprojekt 5100240 BIN4 X siehe sep. Zeitplan 7 07.02.2025 09"
+    },
+    {
+        "course": "Bachmeir Balzer Rechnerarchitektur",
+        "course_id": "5101820",
+        "examiner_1": "nicht",
+        "examiner_2": "programmierbarer",
+        "type": "Choice",
+        "duration": "Fragen",
+        "allowed_materials": "IT-gest. Taschenrechner\nenthalten\nPrüfung kann Multiple \nnein / Kontenrahmen,  Holleber\nHolleber, Ch. Völkl-Wolf Rechnungswesen 6102010 BEC3 Choice Fragen  78 13.02.2025 13"
+    },
+    {
+        "course": "Zahn Wedlich Rechnungswesen und Steuern",
+        "course_id": "5000610",
+        "examiner_1": "nicht",
+        "examiner_2": "programmierbarer",
+        "type": "90",
+        "duration": "min",
+        "allowed_materials": "Taschenrechner, HGB, ein EStG  Zahn\n(akt. Jahr, ohne Komm.)\nWH"
+    },
+    {
+        "course": "Bagheri Gregorova Scientific Seminar",
+        "course_id": "5171110",
+        "examiner_1": "keine",
+        "examiner_2": "Huffstadt",
+        "type": "Portfolio",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung ohne\nBiedermann Schinner Security Engineering 6810170 BISD3 20 11.02.2025 13"
+    },
+    {
+        "course": "Yamshchikov Schleif Semantic Data Processing and Representation",
+        "course_id": "5171090",
+        "examiner_1": "keine",
+        "examiner_2": "Biedermann",
+        "type": "Portfolio",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung ohne\nWeber\nWeber Schütz Social Engineering"
+    },
+    {
+        "course": "Software Engineering",
+        "course_id": "6101600",
+        "examiner_1": "John",
+        "examiner_2": "Heß",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine Heß\nEvaExam Online Bitte  H.1.3 evtl. IT-gestützt\nStröbel\neigenen Rechner \nmitbringen\nPrüfung kann Multiple \nChoice Fragen \nenthalten H.1.1 -  schriftl. Prüf.,  John\nJohn Heß Software Engineering I 5101510 BIN2 X 13 04.02.2025 13"
+    },
+    {
+        "course": "Software Engineering II",
+        "course_id": "5102810",
+        "examiner_1": "Heß",
+        "examiner_2": "Fertig",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine Heß\nEvaExam Online Bitte  evtl. IT-gestützt\neigenen Rechner \nmitbringen\nSoftware industry, education and economy in  BIN FWPM, BWI FWPM, \nSaueressig Müßig, M. 5003031 16 14.02.2025 12"
+    },
+    {
+        "course": "John Schillinger Softwarearchitekturen",
+        "course_id": "5081010",
+        "examiner_1": "BDGD",
+        "examiner_2": "FWPM",
+        "type": "Portfolio",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung ohne\nPrüfung kann Multiple \nChoice Fragen \nHeß\n5001110 enthalten H.1.1 -  schriftl. Prüf., \nHeß Fertig Softwareentwicklung BWI3, BDGD3 89 11.02.2025 11"
+    },
+    {
+        "course": "Stilgenbauer Rott Statistik und Operations Research",
+        "course_id": "5001610",
+        "examiner_1": "nicht",
+        "examiner_2": "FANG",
+        "type": "programmierbarer",
+        "duration": "Rott",
+        "allowed_materials": "enthalten\nTaschenrechner gemäß \nAushang im E-Learning-Kurs\nnein / ein beidseitig \nhandbeschriebenes und nicht \nPrüfung kann Multiple  kopiertes DIN-A4 Blatt, das zur \nStilgenbauer Wübker Stochastik 5111170 BIN3 Choice Fragen  59 03.02.2025 11"
+    },
+    {
+        "course": "nicht programmierbarer \nTaschenrechner gemäß \nAushang im E-Learning-Kurs\nBraun Fertig Systemnahe Programmierung",
+        "course_id": "5111140",
+        "examiner_1": "FANG",
+        "examiner_2": "enthalten",
+        "type": "Portfolio",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung ohne\nSchinner, \nSchinner Wolff"
+    },
+    {
+        "course": "Datenschutz",
+        "course_id": "5003109",
+        "examiner_1": "Weber",
+        "examiner_2": "Technischer",
+        "type": "Portfolio",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung\nWolff\nOermann Müller, N. Themen der Sozioinformatik 6910160 BDGD3 24 25.01.2025 12"
+    },
+    {
+        "course": "and AI Regulations",
+        "course_id": "5171070",
+        "examiner_1": "Trustworthy",
+        "examiner_2": "AI",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine Oermann\nevtl. IT-gestützt\nFragen\nGregorova Väth Unsupervised Deep Learning 5171523 MAI FWPM 2 25.01.2025 12"
+    },
+    {
+        "course": "Vertiefung I BS: Prozesse",
+        "course_id": "5004201",
+        "examiner_1": "Liebstückel",
+        "examiner_2": "Hennermann",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung Liebstückel\nIT-gest.\nBiedermann Schinner Vertiefung I IS"
+    },
+    {
+        "course": "Activate und SAP \nHennermann Liebstückel Vertiefung II BS: Tools für Business Software",
+        "course_id": "5004202",
+        "examiner_1": "außer",
+        "examiner_2": "SAP",
+        "type": "IT-gest.",
+        "duration": "Solution",
+        "allowed_materials": "Manager"
+    },
+    {
+        "course": "BT: Business Process \nSaueressig Schleif",
+        "course_id": "5005202",
+        "examiner_1": "Vertiefung",
+        "examiner_2": "II",
+        "type": "Portfolio",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung ohne\nManagement\nVertiefung II CO"
+    },
+    {
+        "course": "qualitative \nAubele Schnell",
+        "course_id": "6106202",
+        "examiner_1": "Quantitative",
+        "examiner_2": "und",
+        "type": "Portfolio",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung ohne\nNutzerforschung\nVertiefung II MI"
+    },
+    {
+        "course": "SHS: Betrieb von Shop-Systemen",
+        "course_id": "6108202",
+        "examiner_1": "Vertiefung",
+        "examiner_2": "II",
+        "type": "Portfolio",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung ohne\nDahms\nBachmeir\nBachmeir Balzer Vertiefung II SmS"
+    },
+    {
+        "course": "John Vertiefungsseminar MS",
+        "course_id": "5007110",
+        "examiner_1": "BEC6",
+        "examiner_2": "Huffstadt",
+        "type": "Portfolio",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung ohne\nMS\nsoP HA"
+    },
+    {
+        "course": "Braun Web-Anwendungs- und Entwicklungssysteme",
+        "course_id": "6101400",
+        "examiner_1": "gestützt",
+        "examiner_2": "Schillinger",
+        "type": "Portfolio",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung ohne\nWeb-based projects in finnish-german \nAubele Müller, N. 5003145 BEC FWPM 10 25.01.2025 12"
+    },
+    {
+        "course": "beachten)\nPrüfung kann Multiple \nAubele\nAubele Schütz Content Engineering",
+        "course_id": "6102110",
+        "examiner_1": "Hilfsmittel",
+        "examiner_2": "Aufsicht",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine\nSchütz\nenthalten\nGrundlagen- u. \n6102310 Orientierungs-prüfung Aubele\nAubele Schütz Oberflächengestaltung und Usability BEC1, BDGD3 75 25.01.2025 11"
+    },
+    {
+        "course": "Kann Multiple Choice  Schütz\nFragen enthalten\nRott Braun Advanced Database Techniques",
+        "course_id": "5003180",
+        "examiner_1": "keine",
+        "examiner_2": "6910180",
+        "type": "Portfolio",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung ohne\nnein / eigenes Notebook zum \nDeinzer Seuß Algorithmen und Datenstrukturen I 5100020 BIN (alte SPO) X 3 25.01.2025 12"
+    },
+    {
+        "course": "soP Portfolio Einloggen auf den Prüfungs- ohne\nVMs\nArtificial Neural Networks and Cognitive \nGregorova Väth",
+        "course_id": "5171030",
+        "examiner_1": "00",
+        "examiner_2": "ohne",
+        "type": "Portfolio",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung ohne\nModels\n5111160\nBraun Fertig Backend Systems BIN3, BISD3 60 25.01.2025 12"
+    },
+    {
+        "course": "ohne",
+        "course_id": "6810140",
+        "examiner_1": "keine",
+        "examiner_2": "Beschränkung",
+        "type": "Portfolio",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung ohne\nBEC FWPM\nRempel Völkl-Wolf CANVA - Einfach.Gut.Gestalten 5003829 BWI FWPM, BEC FWPM 20 25.01.2025 12"
+    },
+    {
+        "course": "Chizhov Yamshchikov Competitive Programming",
+        "course_id": "5171521",
+        "examiner_1": "keine",
+        "examiner_2": "ohne",
+        "type": "Portfolio",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung ohne\nBIN FWPM, BWI FWPM, \nWimmer, T. Schillinger Data Mining mit Python 5003197 1 25.01.2025 12"
+    },
+    {
+        "course": "Rempel Rogge-Pott Digitale Zeichensysteme",
+        "course_id": "6100400",
+        "examiner_1": "keine",
+        "examiner_2": "ohne",
+        "type": "Portfolio",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung ohne\nOermann Müller, N. Einführung in das Recht 6910110 BDGD2 X 4 25.01.2025 12"
+    },
+    {
+        "course": "die Sozioinformatik",
+        "course_id": "6910040",
+        "examiner_1": "Einführung",
+        "examiner_2": "in",
+        "type": "Portfolio",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung ohne\nOrientierungs-prüfung\nEinführung in Web-Technologien mit Web-\nSchillinger Zilker 6100710 BEC2 X 2 25.01.2025 12"
+    },
+    {
+        "course": "ohne\nYamshchikov Schleif Entrepreneurship for Engineers",
+        "course_id": "5171514",
+        "examiner_1": "keine",
+        "examiner_2": "Beschränkung",
+        "type": "Portfolio",
+        "duration": "nein",
+        "allowed_materials": "/ keine ohne\nOermann Müller, N. Ethics and Regulation of AI 5171519 MDB FWPM, MAI FWPM X 5 25.01.2025 12"
+    },
+    {
+        "course": "Intelligenz",
+        "course_id": "6910130",
+        "examiner_1": "Grundlagen",
+        "examiner_2": "Künstlicher",
+        "type": "Sl",
+        "duration": "nein",
+        "allowed_materials": "/ keine ohne\nBrill Müller, N. Kognitive Prozesse 6910150 BDGD3 23 25.01.2025 12"
+    },
+    {
+        "course": "ohne\nLehrmann Seuß Learning of Structured Data",
+        "course_id": "5171100",
+        "examiner_1": "keine",
+        "examiner_2": "Beschränkung",
+        "type": "Portfolio",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung ohne\nsoP Portfolio"
+    },
+    {
+        "course": "Veranstaltung \nPolcar Völkl-Wolf",
+        "course_id": "5003815",
+        "examiner_1": "die",
+        "examiner_2": "in",
+        "type": "Entertainment",
+        "duration": "bekannt gegeben wird",
+        "allowed_materials": "6102700\nHuffstadt John Mobile Systeme und Anwendungen BEC3, BISD3 89 25.01.2025 12"
+    },
+    {
+        "course": "Digitalisierung",
+        "course_id": "5081090",
+        "examiner_1": "Nachhaltigkeit",
+        "examiner_2": "und",
+        "type": "Sl",
+        "duration": "nein",
+        "allowed_materials": "/ keine ohne\nJohn Braun Professional Skills 5111180 BIN3 62 25.01.2025 12"
+    },
+    {
+        "course": "ohne\nUncertainty\nBagheri Gregorova Scientific Seminar",
+        "course_id": "5171110",
+        "examiner_1": "keine",
+        "examiner_2": "Beschränkung",
+        "type": "Portfolio",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung ohne\nYamshchikov Schleif Semantic Data Processing and Representation 5171090 MAI WS 25 25.01.2025 12"
+    },
+    {
+        "course": "ohne\nJohn Schillinger Softwarearchitekturen",
+        "course_id": "5081010",
+        "examiner_1": "keine",
+        "examiner_2": "Beschränkung",
+        "type": "Portfolio",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung ohne\nBraun Fertig Systemnahe Programmierung 5111140 BIN3 63 25.01.2025 12"
+    },
+    {
+        "course": "Sozioinformatik",
+        "course_id": "6910160",
+        "examiner_1": "Themen",
+        "examiner_2": "der",
+        "type": "Portfolio",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung ohne\nGregorova Väth Unsupervised Deep Learning 5171523 MAI FWPM 2 25.01.2025 12"
+    },
+    {
+        "course": "II BT: Business Process \nSaueressig Schleif",
+        "course_id": "5005202",
+        "examiner_1": "26",
+        "examiner_2": "Vertiefung",
+        "type": "Portfolio",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung ohne\nManagement\nVertiefung II CO"
+    },
+    {
+        "course": "qualitative \nAubele Schnell",
+        "course_id": "6106202",
+        "examiner_1": "Quantitative",
+        "examiner_2": "und",
+        "type": "Portfolio",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung ohne\nNutzerforschung\nSchillinger, \nWimmer, T. Vertiefung II SHS"
+    },
+    {
+        "course": "Shop-Systemen",
+        "course_id": "6108202",
+        "examiner_1": "Betrieb",
+        "examiner_2": "von",
+        "type": "Portfolio",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung ohne\nDahms\nBIN6 MS, BWI6 MS, BEC6 \nHuffstadt John Vertiefungsseminar MS 5007110 X 1 25.01.2025 12"
+    },
+    {
+        "course": "Braun Web-Anwendungs- und Entwicklungssysteme",
+        "course_id": "6101400",
+        "examiner_1": "gestützt",
+        "examiner_2": "Schillinger",
+        "type": "Portfolio",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung ohne\nWeb-based projects in finnish-german \nAubele Müller, N. 5003145 BEC FWPM 10 25.01.2025 12"
+    },
+    {
+        "course": "Algorithmen und Datenstrukturen I",
+        "course_id": "5100020",
+        "examiner_1": "Deinzer",
+        "examiner_2": "Seuß",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine Deinzer\nnein / ein beidseitig \nhandbeschriebenes und nicht \nPrüfung kann Multiple  kopiertes DIN-A4 Blatt, das zur \nStilgenbauer Wübker Mathematik 6910020 BDGD1 Choice Fragen  43 27.01.2025 08"
+    },
+    {
+        "course": "5000910 Prüfung kann Multiple \nKreiner-\nWassermann English for IT",
+        "course_id": "5100920",
+        "examiner_1": "keine",
+        "examiner_2": "John",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine FANG\nWegener\n6910120 enthalten\nVertiefung II MI"
+    },
+    {
+        "course": "Activate und SAP \nHennermann Liebstückel Vertiefung II BS: Tools für Business Software",
+        "course_id": "5004202",
+        "examiner_1": "außer",
+        "examiner_2": "SAP",
+        "type": "IT-gest.",
+        "duration": "Solution",
+        "allowed_materials": "Manager"
+    },
+    {
+        "course": "Richter Aubele Grundlagen Konsumpsychologie",
+        "course_id": "5003831",
+        "examiner_1": "5101910",
+        "examiner_2": "enthalten",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine Aubele\nWimmer, T. Schillinger Web-Programmierung II 6100220 BEC2 X 28 28.01.2025 13"
+    },
+    {
+        "course": "Wedlich Rott Grundlagen der Betriebswirtschaftslehre",
+        "course_id": "5100620",
+        "examiner_1": "nicht",
+        "examiner_2": "programmierbarer",
+        "type": "min",
+        "duration": "Wedlich",
+        "allowed_materials": "evtl. IT-gestützt Taschenrechner\nenthalten\nGrundlagen- u.  Wedlich\nOrientierungs-prüfung  Müller P.\n5000510\nfür BWI und BDGD H.1.1 -  schriftl. Prüf.,  Riegler\nWedlich Hennermann Grundlagen der Wirtschaftswissenschaften 6100600 BWI1, BEC1, BDGD1 214 29.01.2025 08"
+    },
+    {
+        "course": "and a non-\nprogrammable calculator\nMay contain multiple \nStorath Fabeck Bayesian Statistics and Learning",
+        "course_id": "5171518",
+        "examiner_1": "text",
+        "examiner_2": "books",
+        "type": "90",
+        "duration": "min",
+        "allowed_materials": "(meaning a calculator without Storath\nchoice questions\nsupport of a programming\nlanguage or a computer algebra\nsystem)\nschriftl. Prüf., \nLiebstückel Hennermann Business Software 5002130 BWI4 X 12 29.01.2025 11"
+    },
+    {
+        "course": "and a non-\nprogrammable calculator \nMay contain multiple \nStorath Diethelm Mathematical Foundations of AI",
+        "course_id": "5172010",
+        "examiner_1": "text",
+        "examiner_2": "books",
+        "type": "90",
+        "duration": "min",
+        "allowed_materials": "(meaning a calculator without  Storath\nchoice questions\nsupport of a programming \nlanguage or a computer algebra \nsystem)\nPrüfung kann Multiple \nChoice Fragen \nenthalten schriftl. Prüf., \nHeß Fertig Software Engineering II 5102810 BIN4 X 20 29.01.2025 11"
+    },
+    {
+        "course": "Marketing und Vertrieb",
+        "course_id": "5002030",
+        "examiner_1": "Wedlich",
+        "examiner_2": "Hennermann",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine Wedlich\nEvaexam Online Bitte  evtl. IT-gestützt\neigenen Rechner \nmitbringen\nZilker\n5100220\nH.1.1 -  ja (50"
+    },
+    {
+        "course": "Zilker Programmieren II",
+        "course_id": "5000220",
+        "examiner_1": "Lode",
+        "examiner_2": "Heinzl",
+        "type": "H.1.3",
+        "duration": "Wörterbuch Müller",
+        "allowed_materials": "P.\n6810080\nZiegler\nYamshchikov Schleif Artificial Intelligence and Machine Learning 5171020 MAI SS X 2 31.01.2025 11"
+    },
+    {
+        "course": "Yamshchikov Meißner Computational Creativity",
+        "course_id": "5171522",
+        "examiner_1": "keine",
+        "examiner_2": "Yamshchikov",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine Yamshchikov\n5002810\nPrüfung enthält  Ehret\n5102120 H.1.1 -  schriftl. Prüf., \nEhret Meyer Wirtschafts- und IT-Recht BIN7, BWI4, BEC7, BISD3 (X) Multiple Choice  112 31.01.2025 13"
+    },
+    {
+        "course": "Liebstückel Wedlich Logistik",
+        "course_id": "5001710",
+        "examiner_1": "nicht",
+        "examiner_2": "Liebstückel",
+        "type": "H.1.3",
+        "duration": "programmierbarer  Ziegler",
+        "allowed_materials": "Taschenrechner\nWH"
+    },
+    {
+        "course": "Stilgenbauer Rott Statistik und Operations Research",
+        "course_id": "5001610",
+        "examiner_1": "nicht",
+        "examiner_2": "FANG",
+        "type": "programmierbarer",
+        "duration": "Rott",
+        "allowed_materials": "enthalten\nTaschenrechner gemäß \nAushang im E-Learning-Kurs\nnein / ein beidseitig \nhandbeschriebenes und nicht \nPrüfung kann Multiple  kopiertes DIN-A4 Blatt, das zur \nStilgenbauer Wübker Stochastik 5111170 BIN3 Choice Fragen  59 03.02.2025 11"
+    },
+    {
+        "course": "Vertiefung I BS: Prozesse",
+        "course_id": "5004201",
+        "examiner_1": "Liebstückel",
+        "examiner_2": "Hennermann",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung Liebstückel\nIT-gest.\nPrüfung kann Multiple \nDunphy Schöning, L. English for E-Commerce 6100820 BEC1 Choice Fragen  56 03.02.2025 16"
+    },
+    {
+        "course": "and AI Regulations",
+        "course_id": "5171070",
+        "examiner_1": "Trustworthy",
+        "examiner_2": "AI",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine Oermann\nevtl. IT-gestützt\nFragen\nEvaExam-Prüfung \nPrüfung kann Multiple  Oermann\nWeber Oermann Governance, Risk, Compliance and Ethics 6810180 BISD3 18 04.02.2025 08"
+    },
+    {
+        "course": "Deinzer Meißner Grundlagen der Theoretischen Informatik",
+        "course_id": "5101010",
+        "examiner_1": "keine",
+        "examiner_2": "Müßig",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine Deinzer\nSaueressig\nSaueressig Wedlich IT-Organisation und IT-Controlling 5001900 BWI3   70 04.02.2025 11"
+    },
+    {
+        "course": "Software Engineering",
+        "course_id": "6101600",
+        "examiner_1": "John",
+        "examiner_2": "Heß",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine Heß\nEvaExam Online Bitte  H.1.3 evtl. IT-gestützt\nStröbel\neigenen Rechner \nmitbringen\nPrüfung kann Multiple \nChoice Fragen \nenthalten H.1.1 -  schriftl. Prüf.,  John\nJohn Heß Software Engineering I 5101510 BIN2 X 13 04.02.2025 13"
+    },
+    {
+        "course": "Zilker Programmieren",
+        "course_id": "6910070",
+        "examiner_1": "siehe",
+        "examiner_2": "Heinzl",
+        "type": "Wörterbuch",
+        "duration": "5100130",
+        "allowed_materials": "I.3.20\nWH"
+    },
+    {
+        "course": "Programmieren I",
+        "course_id": "5000130",
+        "examiner_1": "Heinzl",
+        "examiner_2": "Zilker",
+        "type": "Wörterbuch",
+        "duration": "6810020 Choice Fragen",
+        "allowed_materials": "I.3.20 Schaidt\nenthalten Ströbel\nZiegler\nPrüfung kann Multiple \nSaueressig Schleif Business Technologies 5001820 BWI4 X Choice Fragen  28 05.02.2025 11"
+    },
+    {
+        "course": "Informatik und E-Commerce",
+        "course_id": "6100510",
+        "examiner_1": "Braun",
+        "examiner_2": "Grundlagen",
+        "type": "min",
+        "duration": "Braun",
+        "allowed_materials": "I.2.18 evtl. IT-gestützt Informatik)\nChoice Fragen  Rust\nenthalten\nBIN FWPM, BWI FWPM, \ndo Carmo Biedermann Automotive and Industrial Cybersecurity 5003828 6 05.02.2025 16"
+    },
+    {
+        "course": "Grundlagen verteilter Systeme",
+        "course_id": "5101320",
+        "examiner_1": "Braun",
+        "examiner_2": "Heinzl",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine Braun\ngestützt\nPrüfung kann Multiple \n5003230 Choice Fragen  Heß\n5103220 enthalten H.1.1 -  schriftl. Prüf.,  Lode\nHeß Wedlich IT-Projektmanagement BIN4, BWI3, BEC4, BISD3 (X) 124 06.02.2025 08"
+    },
+    {
+        "course": "Gerhards Schleif Cloud Native",
+        "course_id": "5171512",
+        "examiner_1": "keine",
+        "examiner_2": "Balzer",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine Schleif\nEvaExam-Prüfung\nPrüfung kann Multiple  nein / script"
+    },
+    {
+        "course": "Schleif\nSchleif Rott Datenmanagement und Data Science",
+        "course_id": "5101730",
+        "examiner_1": "additional",
+        "examiner_2": "personal",
+        "type": "Choice",
+        "duration": "Fragen  notes Roeder",
+        "allowed_materials": "enthalten\nEinführung in die  SAP Business Technology  BIN FWPM, BWI FWPM, \nFink Liebstückel 5003830 siehe sep. Zeitplan 11 06.02.2025 13"
+    },
+    {
+        "course": "Betriebssysteme",
+        "course_id": "5102200",
+        "examiner_1": "Fertig",
+        "examiner_2": "Braun",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ Wörterbuch Fertig\nIT-gest.\nenthalten\nGrundlagen- u.  Biedermann\nBiedermann Weber Grundlagen der Informationssicherheit 6810050 BISD1 57 07.02.2025 08"
+    },
+    {
+        "course": "Zahn Wedlich Rechnungswesen und Steuern",
+        "course_id": "5000610",
+        "examiner_1": "nicht",
+        "examiner_2": "programmierbarer",
+        "type": "90",
+        "duration": "min",
+        "allowed_materials": "Taschenrechner, HGB, ein EStG  Zahn\n(akt. Jahr, ohne Komm.)\nsoP prakt. Sl,  Braun\nBraun Zilker Programmierprojekt 5100240 BIN4 X siehe sep. Zeitplan 7 07.02.2025 09"
+    },
+    {
+        "course": "Workbench",
+        "course_id": "5003028",
+        "examiner_1": "4",
+        "examiner_2": "Development",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine Espensch.\nGrundlagen- und \nOrientierungs-\nSchillinger\nprüfung"
+    },
+    {
+        "course": "Keller Wübker Analysis",
+        "course_id": "5100360",
+        "examiner_1": "das",
+        "examiner_2": "zur",
+        "type": "Kontrolle",
+        "duration": "eingesammelt",
+        "allowed_materials": "wird, \nnicht programmierbarer \nTaschenrechner\nKeller Wübker Grundlagen der Kryptographie 6810100 BISD2 X 2 10.02.2025 10"
+    },
+    {
+        "course": "FANG",
+        "course_id": "6100320",
+        "examiner_1": "90",
+        "examiner_2": "min",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine Reining\nBEC FWPM\nBalzer\nGrundlagen- u.  H.1.1 -  nein / nicht programmierbarer  Zilker\nBalzer Zilker Grundlagen der Technischen Informatik 5100720 BIN1 120 10.02.2025 13"
+    },
+    {
+        "course": "Fertig\nFertig Biedermann Algorithmen und Datenstrukturen II",
+        "course_id": "5101110",
+        "examiner_1": "keine",
+        "examiner_2": "Balzer",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine\nSchaidt\nFichtel"
+    },
+    {
+        "course": "eigenen Rechner \nmitbringen\nBiedermann Schinner Security Engineering",
+        "course_id": "6810170",
+        "examiner_1": "gestützt",
+        "examiner_2": "Rust",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine Biedermann\nTessitore\nGrundlagen- u.  H.1.1 - \nTessitore Huffstadt Grundlagen der Wirtschaftsinformatik 5000430 BWI1 106 12.02.2025 08"
+    },
+    {
+        "course": "Bachmeir Balzer Rechnerarchitektur",
+        "course_id": "5101820",
+        "examiner_1": "nicht",
+        "examiner_2": "programmierbarer",
+        "type": "Choice",
+        "duration": "Fragen",
+        "allowed_materials": "IT-gest. Taschenrechner\nenthalten\nFichtel"
+    },
+    {
+        "course": "Schleif Gregorova Angewandte Numerik",
+        "course_id": "5100430",
+        "examiner_1": "2",
+        "examiner_2": "Rust",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ open book Schleif\nWeber\nWeber Rott Informations- und Technologiemanagement 5003220 BWI4 X 24 12.02.2025 13"
+    },
+    {
+        "course": "Weber Fertig ISM-Standards and Processes",
+        "course_id": "6810120",
+        "examiner_1": "keine",
+        "examiner_2": "Rott",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine Weber\nBIN FWPM, BWI FWPM, \nWeber Fertig ISM-Standards and Processes (FWPM) 5003820 X 1 12.02.2025 16"
+    },
+    {
+        "course": "Fichtel\nBiedermann Weber Penetration Testing",
+        "course_id": "6810110",
+        "examiner_1": "keine",
+        "examiner_2": "Münch",
+        "type": "min",
+        "duration": "nein",
+        "allowed_materials": "/ keine Biedermann\nPrüfung kann Multiple \nnein / Kontenrahmen,  Holleber\nHolleber, Ch. Völkl-Wolf Rechnungswesen 6102010 BEC3 Choice Fragen  78 13.02.2025 13"
+    },
+    {
+        "course": "Datenschutz",
+        "course_id": "5003109",
+        "examiner_1": "Weber",
+        "examiner_2": "Technischer",
+        "type": "Portfolio",
+        "duration": "nein",
+        "allowed_materials": "/ keine Beschränkung\nWolff\nSoftware industry, education and economy in  BIN FWPM, BWI FWPM, \nSaueressig Müßig, M. 5003031 16 14.02.2025 12"
+    }
+]
