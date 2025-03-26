@@ -1,0 +1,37 @@
+[
+  {
+    "matrikelnummer": "20230001",
+    "vorname": "Anna",
+    "nachname": "Müller",
+    "studiengang": "Wirtschaftsinformatik",
+    "semester": 4
+  },
+  {
+    "matrikelnummer": "20230002",
+    "vorname": "Max",
+    "nachname": "Becker",
+    "studiengang": "Wirtschaftsinformatik",
+    "semester": 5
+  },
+  {
+    "matrikelnummer": "20230003",
+    "vorname": "Lisa",
+    "nachname": "Schwarz",
+    "studiengang": "Wirtschaftsinformatik",
+    "semester": 3
+  },
+  {
+    "matrikelnummer": "20230004",
+    "vorname": "Tim",
+    "nachname": "Hoffmann",
+    "studiengang": "Wirtschaftsinformatik",
+    "semester": 6
+  },
+  {
+    "matrikelnummer": "20230005",
+    "vorname": "Sophie",
+    "nachname": "Keller",
+    "studiengang": "Wirtschaftsinformatik",
+    "semester": 2
+  }
+]
