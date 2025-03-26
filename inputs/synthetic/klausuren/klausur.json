@@ -1,0 +1,23 @@
+{
+    "klausur": {
+      "id": 12345,
+      "fachnr": 45678,
+      "titel": "Mathematik Klausur",
+      "datum": "2025-06-15",
+      "dauer_minuten": 90,
+      "raum": "Aula 101",
+      "themen": ["Analysis", "Lineare Algebra", "Stochastik"],
+      "max_punkte": 100,
+      "pruefer": {
+        "hauptpruefer": {
+          "name": "Dr. Müller",
+          "email": "mueller@schule.de"
+        },
+        "zweitpruefer": {
+          "name": "Prof. Schmidt",
+          "email": "schmidt@schule.de"
+        }
+      }
+    }
+  }
+  
