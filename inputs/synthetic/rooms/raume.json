@@ -1,0 +1,74 @@
+{
+  "rooms": [
+    {
+      "id": "H.1.1",
+      "capacity": 80,
+      "equipment": ["Beamer", "Tafel"],
+      "building": "H",
+      "course": "Einführung in die Wirtschaftsinformatik"
+    },
+    {
+      "id": "H.1.2",
+      "capacity": 30,
+      "equipment": ["Whiteboard", "Beamer"],
+      "building": "H",
+      "course": "Betriebswirtschaftslehre I"
+    },
+    {
+      "id": "H.1.3",
+      "capacity": 40,
+      "equipment": ["Tafel"],
+      "building": "H",
+      "course": "Datenbanken und SQL"
+    },
+    {
+      "id": "H.1.4",
+      "capacity": 60,
+      "equipment": ["Beamer", "Tafel", "Audioanlage"],
+      "building": "H",
+      "course": "Rechnungswesen und Controlling"
+    },
+    {
+      "id": "H.1.5",
+      "capacity": 25,
+      "equipment": ["Whiteboard"],
+      "building": "H",
+      "course": "IT-Projektmanagement"
+    },
+    {
+      "id": "H.1.6",
+      "capacity": 35,
+      "equipment": ["Tafel", "Beamer"],
+      "building": "H",
+      "course": "Wirtschaftsrecht für Informatiker"
+    },
+    {
+      "id": "H.1.7",
+      "capacity": 50,
+      "equipment": ["Tafel", "Whiteboard"],
+      "building": "H",
+      "course": "Enterprise Resource Planning (ERP)"
+    },
+    {
+      "id": "I.0.1",
+      "capacity": 25,
+      "equipment": ["PCs", "Beamer", "Klimaanlage"],
+      "building": "I",
+      "course": "Programmieren mit Python"
+    },
+    {
+      "id": "I.2.1",
+      "capacity": 20,
+      "equipment": ["Labortische", "Messgeräte"],
+      "building": "I",
+      "course": "IT-Sicherheit und Datenschutz"
+    },
+    {
+      "id": "I.3.2",
+      "capacity": 30,
+      "equipment": ["PCs", "Whiteboard"],
+      "building": "I",
+      "course": "Datenanalyse und Statistik"
+    }
+  ]
+}
