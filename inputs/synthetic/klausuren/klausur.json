@@ -1,0 +1,35 @@
+{
+    "klausur": {
+      "id": 12345,
+      "fachnr": 45678,
+      "titel": "Mathematik Klausur",
+      "datum": "2025-06-15",
+      "dauer_minuten": 90,
+      "raum": "Aula 101",
+      "themen": ["Analysis", "Lineare Algebra", "Stochastik"],
+      "max_punkte": 100,
+      "fragen": [
+        {
+          "nummer": 1,
+          "frage": "Berechnen Sie das Integral ∫(x^2) dx.",
+          "punkte": 10
+        },
+        {
+          "nummer": 2,
+          "frage": "Lösen Sie das Gleichungssystem: 2x + 3y = 6, x - y = 2.",
+          "punkte": 15
+        }
+      ],
+      "pruefer": {
+        "hauptpruefer": {
+          "name": "Dr. Müller",
+          "email": "mueller@schule.de"
+        },
+        "zweitpruefer": {
+          "name": "Prof. Schmidt",
+          "email": "schmidt@schule.de"
+        }
+      }
+    }
+  }
+  
