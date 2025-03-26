@@ -1,0 +1,22 @@
+{
+  "hochschule": "Technische Hochschule Würzburg-Schweinfurt",
+  "standort": "Würzburg",
+  "dozenten": [
+    {
+      "DozentenID":"001",
+      "name": "Prof. Dr. Karl Liebstückel",
+      "fachbereich": "Instandthaltung",
+      "kurse": ["Buisness Software", "Logistik"],
+      "email": "karl.liebstueckel@thwas.de",
+      "büro": "I.3.27"
+    },
+    {
+      "DozentenID":"002",
+      "name": "Prof. Dr. Michael Rott",
+      "fachbereich": "Datenbanken",
+      "kurse": ["Datenbanken", "Business Technologies", "Informations- &           Technologiemanagment"],
+      "email": "lisa.beispiel@thws.de",
+      "büro": "Gebäude B, Raum 210"
+    },
+  ]
+}
