@@ -1,0 +1,84 @@
+{
+  "Fakultäten": {
+    "Informatik": {
+      "Klausuren": [
+        {
+          "ID": "INF-101",
+          "Modul": "Mathematik",
+          "Prüfungsdatum": "2025-07-15",
+          "Dauer": "90 Minuten",
+          "Raum": "H1.1",
+          "Prüfer": "Prof. Dr. Meier",
+          "Pflichtfach": "ja"
+        },
+        {
+          "ID": "INF-102",
+          "Modul": "Programmierung",
+          "Prüfungsdatum": "2025-07-20",
+          "Dauer": "90 Minuten",
+          "Raum": "H1.2",
+          "Prüfer": "Prof. Dr. Schulz",
+          "Pflichtfach": "ja"
+        },
+        {
+          "ID": "INF-103",
+          "Modul": "Datenbanken",
+          "Prüfungsdatum": "2025-07-25",
+          "Dauer": "90 Minuten",
+          "Raum": "H2.1",
+          "Prüfer": "Prof. Dr. Lehmann",
+          "Pflichtfach": "nein"
+        },
+        {
+          "ID": "INF-104",
+          "Modul": "IT-Sicherheit",
+          "Prüfungsdatum": "2025-07-30",
+          "Dauer": "90 Minuten",
+          "Raum": "H2.2",
+          "Prüfer": "Prof. Dr. Becker",
+          "Pflichtfach": "ja"
+        }
+      ]
+    },
+    "Wirtschaftsinformatik": {
+      "Klausuren": [
+        {
+          "ID": "WI-201",
+          "Modul": "BWL",
+          "Prüfungsdatum": "2025-07-18",
+          "Dauer": "90 Minuten",
+          "Raum": "H1.3",
+          "Prüfer": "Prof. Dr. Wagner",
+          "Pflichtfach": "ja"
+        },
+        {
+          "ID": "WI-202",
+          "Modul": "Webentwicklung",
+          "Prüfungsdatum": "2025-07-22",
+          "Dauer": "90 Minuten",
+          "Raum": "H1.4",
+          "Prüfer": "Prof. Dr. Hoffmann",
+          "Pflichtfach": "ja"
+        },
+        {
+          "ID": "WI-203",
+          "Modul": "Netzwerke",
+          "Prüfungsdatum": "2025-07-27",
+          "Dauer": "90 Minuten",
+          "Raum": "H2.3",
+          "Prüfer": "Prof. Dr. Schmidt",
+          "Pflichtfach": "nein"
+        },
+        {
+          "ID": "WI-204",
+          "Modul": "Datenbanken",
+          "Prüfungsdatum": "2025-07-31",
+          "Dauer": "90 Minuten",
+          "Raum": "H2.4",
+          "Prüfer": "Prof. Dr. Keller",
+          "Pflichtfach": "nein"
+        }
+      ]
+    }
+  }
+}
